@@ -20,7 +20,7 @@ public class Main {
             } else if (number == 0) {
                 break;
             } else {
-                System.out.println("Вы ыыели неверное значение!");
+                System.out.println("Вы ввели неверное значение!");
             }
         }
     }
