@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int number = 0;
+        int number;
         while (true) {
             System.out.println("Выберети задание ");
             System.out.println("1 - задание №_1");
